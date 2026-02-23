@@ -1,81 +1,148 @@
 {
   "workshops": [
         {
-          "name": "CKAN + Open Data Apps - vom Portal zur Anwendung",
-          "referent": "TODO (OK Lab Karlsruhe)",
-          "topics": ["Open Data", "Verwaltung"],
+          "name": "Power für offene Daten mit PowerBI oder anderen DataTools",
+          "referent": "Michael (OK Lab Karlsruhe)",
+          "topics": ["Open Data", "Business Intelligence", "Visualisierung"],
           "format": "Workshop",
-          "time": "Samstag 10:30 Uhr - 11:15 Uhr",
-          "description": "TODO Data-Retrieval",
+          "time": "TBA",
+          "description": "Business Intelligence Tools sind nicht nur im professionellen Umfeld sehr nützliche Werkzeuge, um  Datenverarbeitung und interaktive Visualisierungen zu erstellen. Dabei stehen viele Hilfsmittel bereit, um umbekannte Datensätze zu erkunden und zusammenzuführen. Man kann ohne Programmierkenntnisse erstaunliche und sehr individuelle Einblicke bekommen und spontan zu neuen Fragestellungen anhand der Daten schnell Ergebnisse erzielen.",
           "prerequisites": "Keine",
-          "location": "TODO",
-          "imagePath": "img/ckan.jpg"
+          "location": "TBA",
+          "imagePath": "img/powerbi.png",
+          "imageAlt": "Screenshot einer PowerBI Anwendung, die den Zugang zu Elektrizität auf einer Weltkugel visualisiert"
         },
         {
-          "name": "Power für offene Daten mit PowerBI oder anderen DataTools",
-          "referent": "TODO (OK Lab Karlsruhe)",
-          "topics": ["Open Data", "Verwaltung", "Visualisierung"],
+          "name": "Offene Geodaten finden und nutzen",
+          "referent": "Martin (OK Lab Karlsruhe)",
+          "topics": ["Open Data", "Geodaten", "Visualisierung"],
           "format": "Workshop",
-          "time": "Samstag 11:30 Uhr - 12:15 Uhr",
-          "description": "TODO Data-Visualization",
+          "time": "TBA",
+          "description": "Viele Daten kommen mit einem Raumbezug, der die Frage zum 'wo in aller Welt ist das?' beantwortet. Damit hat man bereits Geodaten, die als Grundlage für Visualisurungen auf Karten und für Berechnungen dienen. Die Welt der Geodaten besteht aus einer großen Zahl an Systemen, Formaten und Software. Wir werden in diesem Workshop eine Einführung in geographische Informationssysteme (GIS) und frei nutzbare Datenquellen geben und eine Reise durch Open Data Portale und die darin auffindbaren Dienste antreten. Recherche und  jeder diese Infomationen nutzen kann. Existierende Möglichkeiten, selbst solche Daten zu erfassen und zu kombinieren werden vorgestellt - praktisch alle Telefone haben heutzutage GPS eingebaut, mit dem man live Positionen aufzeichnen und navigieren kann.",
           "prerequisites": "Keine",
-          "location": "TODO",
-          "imagePath": "img/powerbi.png"
+          "location": "TBA",
+          "imagePath": "img/geodaten.png",
+          "imageAlt": "Screenshot, der Park and Ride Möglichkeiten auf einer Karte um Karlsruhe herum visualisiert"
+        },
+        {
+          "name": "KA-RIS: Das Karlsruher Ratsinformationssystem",
+          "referent": "Jaro (OK Lab Karlsruhe, Heidelberg)",
+          "topics": ["Open Data", "Verwaltung", "KI", "Transparenz"],
+          "format": "Workshop",
+          "time": "TBA",
+          "description": "Die wesentlichen Verhandlungen und Beschlüsse in der Stadt finden im Rat statt, der im Ratsinformationssystem die zugehörigen Dokumente digital bereitstellt. Die Bereitstellung erfolgt überwiegend in Form von Texten und Abbildungen im PDF Format. Wir wollen uns damit beschäftigen, wie man die wertvollen Informationen besser als mit einer einfachen Suche nutzbar machen kann - textuelle Analysen und Sprachmodelle können uns dabei sicher helfen.",
+          "prerequisites": "Keine",
+          "location": "TBA",
+          "imagePath": "img/karis.png",
+          "imageAlt": "Screenshot, der eine Suche im Ratsinformationssystem zeigt."
+        },
+        {
+          "name": "KA-RIS: Das Karlsruher Ratsinformationssystem",
+          "referent": "Jaro (OK Lab Karlsruhe, Heidelberg)",
+          "topics": ["Open Data", "Verwaltung", "KI", "Transparenz"],
+          "format": "Workshop",
+          "time": "TBA",
+          "description": "Die wesentlichen Verhandlungen und Beschlüsse in der Stadt finden im Rat statt, der im Ratsinformationssystem die zugehörigen Dokumente digital bereitstellt. Die Bereitstellung erfolgt überwiegend in Form von Texten und Abbildungen im PDF Format. Wir wollen uns damit beschäftigen, wie man die wertvollen Informationen besser als mit einer einfachen Suche nutzbar machen kann - textuelle Analysen und Sprachmodelle können uns dabei sicher helfen.",
+          "prerequisites": "Keine",
+          "location": "TBA",
+          "imagePath": "img/karis.png",
+          "imageAlt": "Screenshot, der eine Suche im Ratsinformationssystem zeigt."
+        },
+        {
+          "name": "Coding-Workshop mit Daten",
+          "referent": "Marie (OK Lab Karlsruhe)",
+          "topics": ["Open Data", "Verwaltung", "KI", "Transparenz"],
+          "format": "Workshop",
+          "time": "TBA",
+          "description": "Für einen Codingworkshop zur Codeweek BW 2025 wurden verschiedene offene Datensätze für die Bearbeitung zusammengestellt. Wir geben einen aktuellen Überblick und helfen, diese für eigene Fragen und Visualisierungen zu nutzen. Dazu kann eine Jupyter Notebook Umgebung genutzt werden, in der Code geschrieben und direkt ausgeführt wird - ein einfacher Einstieg in die schnelle Entwicklung.",
+          "prerequisites": "Keine",
+          "location": "TBA",
+          "imagePath": "img/codingworkshop.jpg",
+          "imageAlt": "Bild inspiriert von Pierre le Riche, The Worshipping, [Ronewa](https://ronewa.com/exhibitions/51/works/artworks-1620-pierre-le-riche-the-worshipping-2025/)"
         },
         {
           "name": "Führung House of Living Labs",
-          "referent": "TODO (FZI Forschungszentrum Informatik)",
-          "topics": ["Open Data", "Verwaltung"],
+          "referent": "TBA (FZI Forschungszentrum Informatik)",
+          "topics": ["Open Data", "Verwaltung", "Forschung"],
           "format": "Führung",
-          "time": "Samstag 12:30 Uhr - 13:00 Uhr",
-          "description": "TODO Unsere Location: Mitten in der IT-Region Karlsruhe hat das FZI auf zwei Stockwerken mit über 2.000 Quadratmetern eine neuartige Forschungsumgebung insbesondere für kleine und mittlere Unternehmen geschaffen, die branchen- und anwendungsfeldübergreifend für Forschung und Entwicklung zur Verfügung steht: das FZI House of Living Labs. In der Führung lernst du die verschiedenen Forschungsprojekte kennen, siehst, wie hier evaluaiert und entwickelt wird, entdeckst Real-Life Szenarien und findest heraus, welche Ideen und Innovationen hier schon generiert wurden.",
+          "time": "TBA",
+          "description": "Unsere Location: Mitten in der IT-Region Karlsruhe hat das FZI auf zwei Stockwerken mit über 2.000 Quadratmetern eine neuartige Forschungsumgebung insbesondere für kleine und mittlere Unternehmen geschaffen, die branchen- und anwendungsfeldübergreifend für Forschung und Entwicklung zur Verfügung steht: das FZI House of Living Labs. In der Führung lernst du die verschiedenen Forschungsprojekte kennen, siehst, wie hier evaluaiert und entwickelt wird, entdeckst Real-Life Szenarien und findest heraus, welche Ideen und Innovationen hier schon generiert wurden.",
           "prerequisites": "Keine",
-          "location": "TODO",
+          "location": "TBA",
           "imagePath": "img/fziholl.png"
         },
         {
-          "name": "Datenanalyse mit Kryptographischen Methoden ohne Kryptographischer Expertise",
-          "referent": "TODO (OK Lab Karlsruhe)",
+          "name": "Der Auenbot",
+          "referent": "Andreas (OK Lab Karlsruhe)",
           "topics": ["Open Data", "Verwaltung"],
           "format": "Workshop",
-          "time": "Samstag 14:30 Uhr - 15:15 Uhr",
-          "description": "TODO",
+          "time": "TBA",
+          "description": "Dieser Workshop führt in die Welt von KI Assistenten, die mit einer Datengrundlage aus dem Projekt KarlA des LUBW arbeitet. Ziel ist die virtuelle Auen‑Rangerin, die sofort Auskünfte bereit hat zu: den Rheinau‑Lebensräumen von Karlsruhe, Flora und Fauna (bis zu 143 Tier‑ und 64 Pflanzenarten), Öffnungszeiten, Ausstellungen, Veranstaltungen und Anfahrt des NAZKA, Umweltschutz‑ und Naturschutz‑Themen, sowie aktuellen Luftqualitätswerten (Ozon, AQI usw.).",
           "prerequisites": "Keine",
-          "location": "TODO",
-          "imagePath": "img/krypto.png"
+          "location": "TBA",
+          "imagePath": "img/auenbot.jpg",
+          "imageAlt": "Screenshot eines Chats mit dem Auenbot"
         },
         {
-          "name": "Ich will digital sein! Wie du einen 3D Scan von dir machst",
-          "referent": "Marvin Bauch (Studio Blaupause)",
-          "topics": ["Virtual Reality"],
-          "format": "Vortrag & Workshop",
-          "time": "Samstag 15:30 Uhr - 16:15 Uhr",
-          "description": " Überblick über Scanverfahren, technische Hintergründe, Dateiformate, Mit Live-Demo. Wer mag kann sich (grob) einscannen (lassen), im Anschluss.",
-          "prerequisites": "Keine",
-          "location": "TODO",
-          "imagePath": "img/3dperson.jpg"
-        },
-        {
-          "name": "Ist das noch Bildhauerei? Von VR Modellierung bis zum 3D Druck",
-          "referent": "Julia Federspiel (Studio Blaupause)",
-          "topics": ["Virtual Reality"],
-          "format": "Vortrag & Workshop",
-          "time": "TODO",
-          "description": " Überblick über Kunstrichtungen insb. klassische Bildhauerei und wie sich diese im Kontext moderner Werkzeuge (3D Scan, 3D Druck, VR Modellierung) widerspiegelt. Mit VR Brille und Hands-On Experience - wer mag kann sein eigenes Kunstwerk modellieren.",
-          "prerequisites": "Keine",
-          "location": "TODO",
-          "imagePath": "img/bildhauereivr.jpg"
-        },
-        {
-          "name": "Mini City",
-          "referent": "Daniel Schwarz (Hochschule Karlsruhe)",
-          "topics": ["Virtual Reality"],
+          "name": "Digitale Tools zur Vernetzung",
+          "referent": "Jasmin, Martin (OK Lab Karlsruhe)",
+          "topics": ["Open Tools", "Kommunikation", "Zivilgesellschaft"],
           "format": "Workshop",
-          "time": "Samstag 16:30 Uhr - 17:15 Uhr",
-          "description": " TODO.",
+          "time": "TBA",
+          "description": "Dieser Workshop beschäftigt sich mit digitalen Tools zur Vernetzung, die für die Organisation in der Zivilgesellschaft genutzt werden können. Der Fokus liegt dabei darauf, Alternativen zu den großen Anbietern und Plattformen aufzuzeigen, die eine Community unabhängiger und resilienter macht. Wir wollen in dem Workshop herausfinden, wie man anhand von Fragen eine passende Auswahl für die eigene Community treffen kann.",
           "prerequisites": "Keine",
-          "location": "TODO",
-          "imagePath": "img/minicity.png"
+          "location": "TBA",
+          "imagePath": "img/digitale-vernetzung.png",
+          "imageAlt": "OK Lab Logo"
+        },
+        {
+          "name": "Klimaschutz und Klimabilanz in Karlsruhe",
+          "referent": "Stefan (Stadt Karlsruhe)",
+          "topics": ["Open Data", "Verwaltung"],
+          "format": "Workshop",
+          "time": "TBA",
+          "description": "Dieser Workshop führt in den Klimaschutz und die Klimabilanz in Karlsruhe ein. Um die Transparenz für die Bürgerinnen und Bürger zu erhöhen, wird für die Darstellung des Monitorings das Tool ClimateView genutzt.",
+          "prerequisites": "Keine",
+          "location": "TBA",
+          "imagePath": "img/climateview.png",
+          "imageAlt": "ClimateView Screenshot mit Karlsruher Daten"
+        },
+        {
+          "name": "Sensoren DIY",
+          "referent": "Andreas, Martin (OK Lab Karlsruhe)",
+          "topics": ["Programmierung", "Sensoren", "Open Data"],
+          "format": "Workshop",
+          "time": "TBA",
+          "description": "Dieser Workshop führt in Sensoren zur Messung von Umweltparametern und die Programmierung eigener Geräte ein. Ziel ist es, sich eine eigene Sensorstation bauen zu können und diese mit eigenen Automatisierungen zu programmieren. Mit den zur Verfügung gestellten Systemen können auch Programmieranfänger ihre eigenen Ideen umsetzen.",
+          "prerequisites": "Keine",
+          "location": "TBA",
+          "imagePath": "img/sens-ws.png",
+          "imageAlt": "Ein Sensorbausatz mit Datenvisualisierung"
+        },
+        {
+          "name": "PV-Planung aus Anwendersicht",
+          "referent": "Wolfgang (OK Lab Karlsruhe)",
+          "topics": ["Open Data", "Verwaltung"],
+          "format": "Workshop",
+          "time": "TBA",
+          "description": "Dieser Workshop führt in die Planung einer PV-Anlage anhand eines selbst umgesetzten Projektes ein und gibt Tipps für die eigene Herangensweise anhand der gewonnenen Erfahrungen. Ein Datensatz mit einer Zeitreihe kann für Untersuchungen und Visualisierungen genutzt werden.",
+          "prerequisites": "Keine",
+          "location": "TBA",
+          "imagePath": "img/pv-planung.png",
+          "imageAlt": "OK Lab Logo"
         }
-    ]
+    ],
+    "template": 
+        {
+          "name": "",
+          "referent": "",
+          "topics": ["Open Data", "Verwaltung"],
+          "format": "Workshop",
+          "time": "TBA",
+          "description": "Dieser Workshop führt in die Welt von Open Data ein.",
+          "prerequisites": "Keine",
+          "location": "TBA",
+          "imagePath": "img/okl-logo.png",
+          "imageAlt": "OK Lab Logo"
+        }
 }
